@@ -1,4 +1,4 @@
-// Hay que agregar mas productos desde postman
+// Se pueden agregar mas productos desde postman
 // PORT = 8000
 // SECRET_KEY_SESSION = "1234"
 // JWT_SECRET = "1234"
